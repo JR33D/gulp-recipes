@@ -1,7 +1,7 @@
 {
   "name": "gulp-recipes",
   "version": "1.0.0",
-  "description": "",
+  "description": "Collection of gulp tasks separated by file",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "echo \"Error: Please use `gulp --tasks` to see available commands\""
